@@ -1,0 +1,7 @@
+{
+ "globals": {
+    "Package": true,
+    "Meteor": true,
+    "TraceProvider": true
+  }
+}
