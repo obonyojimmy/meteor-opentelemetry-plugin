@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'obonyojimmy:meteor-opentelemetry-plugin',
+  name: 'obonyojimmy:opentelemetry-plugin-meteor',
   version: '0.0.1',
   summary: 'Meteor specific package that auto instrument your meteor app for open-telementry metrics and tracing.',
   git: 'https://github.com/obonyojimmy/meteor-opentelemetry-plugin.git',
